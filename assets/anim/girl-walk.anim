@@ -1,12 +1,12 @@
 {
   "__type__": "cc.AnimationClip",
-  "_name": "girl-02",
+  "_name": "girl-walk",
   "_objFlags": 0,
   "_native": "",
   "_duration": 1.0166666666666666,
   "sample": 60,
   "speed": 0.3,
-  "wrapMode": "2",
+  "wrapMode": "22",
   "curveData": {
     "comps": {
       "cc.Sprite": {
