@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "girl-blink",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.18333333333333332,
+  "sample": 60,
+  "speed": 0.3,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "b9843240-63fa-4677-82ae-51546cbc8bc9"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "b9843240-63fa-4677-82ae-51546cbc8bc9"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "96f0a35c-d028-4163-abcf-f111aa7d3319"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "b9843240-63fa-4677-82ae-51546cbc8bc9"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "96f0a35c-d028-4163-abcf-f111aa7d3319"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
