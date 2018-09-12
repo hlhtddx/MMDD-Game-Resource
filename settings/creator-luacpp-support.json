@@ -1,0 +1,7 @@
+{
+  "autoBuild": false,
+  "exportResourceDynamicallyLoaded": true,
+  "exportResourceOnly": true,
+  "path": "/Users/frank/Games/Cocos2D/MMDD_Game/game",
+  "setup": false
+}
